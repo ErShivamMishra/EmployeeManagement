@@ -1,0 +1,1 @@
+# First Install Dev C software then download the project and after extracting run from index.c
